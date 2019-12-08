@@ -1,0 +1,23 @@
+{
+  "name": "chrominal",
+  "version": "1.0.0",
+  "description": "A terminal for chromebook",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesterOrNot/Chrominal.git"
+  },
+  "keywords": [
+    "Chromebook",
+    "terminal"
+  ],
+  "author": "Sean Hellum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JesterOrNot/Chrominal/issues"
+  },
+  "homepage": "https://github.com/JesterOrNot/Chrominal#readme"
+}
